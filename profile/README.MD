@@ -2,7 +2,7 @@
 
 **Open-source transparency infrastructure for agentic commerce.**
 
-→ [discloseprotocol.dev](https://discloseprotocol.dev) · `v0.1 Draft`
+→ [discloseframework.dev](https://discloseframework.dev/) · `v0.1 Draft`
 
 ---
 
