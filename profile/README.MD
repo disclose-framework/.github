@@ -109,7 +109,7 @@ This specification is in active development. Current priorities:
 
 ## Why Now
 
-The shift to agentic commerce is happening faster than the trust infrastructure needed to support it. OpenAI, Google, and Anthropic are each building commerce layers into their agent platforms. The question of how agents evaluate merchant trustworthiness is unsolved and urgent. Disclose is designed to be the answer — vendor-neutral, open-source, and built for the infrastructure layer, not the application layer.
+The shift to agentic commerce is happening faster than the trust infrastructure needed to support it. OpenAI, Google, Anthropic, and Meta are each building commerce layers into their agent platforms. The question of how agents evaluate merchant trustworthiness is unsolved and urgent. Disclose is designed to be the answer — vendor-neutral, open-source, and built for the infrastructure layer, not the application layer.
 
 ---
 
